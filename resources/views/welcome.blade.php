@@ -16,7 +16,7 @@
                 width: 100%;
                 display: table;
                 font-weight: 100;
-                font-family: 'Latox ';
+                font-family: 'Lato';
             }
 
             .container {
